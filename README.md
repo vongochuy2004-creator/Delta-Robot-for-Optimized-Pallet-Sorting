@@ -74,7 +74,7 @@ Add project photos, a system architecture diagram, or a demonstration video here
 
 - System overview: `docs/architecture.png`
 - Vision processing results: `docs/vision-results.png`
-- Palletizing demonstration: Add a link to your demo video.
+- Palletizing demonstration:(https://www.youtube.com/watch?v=zGNEYnBggOM)
 
 ## Project Scope and Limitations
 
